@@ -2,7 +2,7 @@
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
-- Guide pages
+- 1Guide pages
 - Navigation
 - Customizations
 - API Reference pages
@@ -34,3 +34,7 @@ Install our Github App to auto propagate changes from your repo to your deployme
 ![66 1590134180960 Jp](/66_1590134180960.jpg)
 
 ![54 1590134180328 Jp](/54_1590134180328.jpg)
+
+12111
+
+<User>
